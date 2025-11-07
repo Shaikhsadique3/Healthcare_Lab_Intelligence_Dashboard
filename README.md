@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Healthcare Lab Intelligence Dashboard
+=======
+# Healthcare Lab Intelligence
+>>>>>>> d01a038a9312491ce59c2fce38ea327be5e4a040
 
 This project demonstrates a comprehensive data analysis workflow for synthetic blood test reports, covering data generation, exploratory data analysis (EDA), interactive visualization dashboards, and predictive analytics.
 
