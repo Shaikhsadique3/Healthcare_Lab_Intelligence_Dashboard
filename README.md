@@ -28,7 +28,7 @@ This dashboard provides actionable insights for healthcare laboratories, focusin
 
 ## Deployment
 
-This application is deployed live on Render and can be accessed here: [Blood Report Analytics Dashboard](https://blood-report-analytics.onrender.com/)
+This application is deployed live on Render and can be accessed here: [Healthcare Lab Intelligence Dashboard](https://blood-report-analytics.onrender.com/)
 
 ## Features
 
@@ -123,7 +123,7 @@ To set up and run this project locally, follow these steps:
     ```bash
     python generate_report.py
     ```
-    This will create `Blood_Report_Analytics_Report.pdf` in the project directory.
+    This will create `HealthcareLab_Intelligence.pdf` in the project directory.
 
 ## Technologies Used
 
