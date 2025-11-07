@@ -1,4 +1,4 @@
-# Blood Report Analytics Project
+# Healthcare Lab Intelligence
 
 This project demonstrates a comprehensive data analysis workflow for synthetic blood test reports, covering data generation, exploratory data analysis (EDA), interactive visualization dashboards, and predictive analytics.
 
